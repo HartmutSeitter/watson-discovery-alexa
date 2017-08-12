@@ -19,12 +19,6 @@
 var https = require('https');
 var request = require('request');
 var moment = require('moment');
-var Cloudant = require('cloudant');
-
-var cloudant = new Cloudant({
-    account: "your user id, you get it from the cloudant credentials",
-    password: "your cloudantDB password, you get it from the cloudant credentials"
-});
 
 
 //***********************************************

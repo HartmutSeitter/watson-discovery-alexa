@@ -13,16 +13,19 @@
       "intent": "AMAZON.CancelIntent"
     },
     {
+      "intent": "infoallgemein"
+    },
+    {
       "intent": "infodaten"
+    },
+    {
+      "intent": "krankheit"
     },
     {
       "intent": "infoschluesselwoerter"
     },
     {
       "intent": "infoentitaeten"
-    },
-    {
-      "intent": "infoallgemein"
     }
  ]
 }
