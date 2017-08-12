@@ -1,0 +1,15 @@
+infodaten welche Daten beinhaltet dein Wissen
+infodaten welche Daten stehen zur Verfügung
+infodaten welche Daten gibt es
+infodaten was ist die Datengrundlage
+infoschluesselwoerter welche schlüsselwörter gibt es zur Lungendiagnose
+infoschluesselwoerter was sind die Schlüsselwörter
+infoschluesselwoerter welche Schlüsselwörter gibt es
+infoentitaeten welche entitäten gibt es zur Lungendiagnose
+infoentitaeten was sind die Entitäten
+infoentitaeten welche Entitäten gibt es
+infoallgemein allgemeine Informationen
+infoallgemein wie funktioniert das
+infoallgemein was ist watson discovery
+diagnose wie kann ich {krankheit} erkennen
+diagnose welche Anzeichen gibt es für {krankheit}

@@ -1,0 +1,28 @@
+{
+  "intents": [
+    {
+      "intent": "AMAZON.ResumeIntent"
+    },
+    {
+      "intent": "AMAZON.PauseIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    },
+    {
+      "intent": "infodaten"
+    },
+    {
+      "intent": "infoschluesselwoerter"
+    },
+    {
+      "intent": "infoentitaeten"
+    },
+    {
+      "intent": "infoallgemein"
+    }
+ ]
+}

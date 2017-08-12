@@ -1,0 +1,25 @@
+{
+  "intents": [
+    {
+      "intent": "AMAZON.ResumeIntent"
+    },
+    {
+      "intent": "AMAZON.PauseIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    },
+    {
+      "slots": [
+        {
+          "name": "search",
+          "type": "SEARCH"
+        }
+      ],
+      "intent": "lungenanalyse"
+    }
+  ]
+}
